@@ -1,0 +1,26 @@
+$black:                  #000000;
+$white:                  #FFFFFF;
+
+// brand colors
+$red-brand:              #DF4841;
+$navy-brand:             #17355E;
+$aqua-2-brand:           #74CDDE;
+$marigold-brand:         #FCB832;
+
+// brand digital colors
+$red:                    #D9272D;
+$aqua-1:                 #3bc1cd;
+$teal-2:                 #2b7e93;
+$gray-dark:              #58595B;
+$gray:                   #CCCCCC;
+$gray-light:             #FAFAFA;
+$gray-line:              #d1d3d4;
+
+$teal-1:                 #206c72;
+
+$text-color:            $gray-dark;
+$main-nav:              #b8b8bc;
+
+$link-color:            $teal-2;
+$link-hover-color:      darken($link-color, 15%);
+$link-hover-decoration: none;
